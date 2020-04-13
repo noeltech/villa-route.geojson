@@ -1,0 +1,100 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "Name": "AKLAN",
+        "Value": null,
+        "Category": "Province",
+        "z": null,
+        "Remarks": null
+      },
+      "geometry": {
+        "coordinates": [
+          122.242177,
+          11.574713
+        ],
+        "type": "Point"
+      },
+      "id": "40dcbfbf5f8d3a7aafe0c8e64c6c2d6b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "Name": "ILOILO",
+        "Value": null,
+        "Category": "Province",
+        "z": null,
+        "Remarks": null
+      },
+      "geometry": {
+        "coordinates": [
+          122.525353,
+          11.00613
+        ],
+        "type": "Point"
+      },
+      "id": "83f0a6e989382a02926926d5176a6e70"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "Name": "ANTIQUE",
+        "Value": null,
+        "Category": "Province",
+        "z": null,
+        "Remarks": null
+      },
+      "geometry": {
+        "coordinates": [
+          122.072717,
+          11.061874
+        ],
+        "type": "Point"
+      },
+      "id": "867f177cb1ce38be2e6830d3be991bd6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "Name": "CAPIZ",
+        "Value": null,
+        "Category": "Province",
+        "z": null,
+        "Remarks": null
+      },
+      "geometry": {
+        "coordinates": [
+          122.590016,
+          11.362888
+        ],
+        "type": "Point"
+      },
+      "id": "c7ea4e96c804344eff9c7b3f85359c6e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "Name": "GUIMARAS",
+        "Value": null,
+        "Category": "Province",
+        "z": null,
+        "Remarks": null
+      },
+      "geometry": {
+        "coordinates": [
+          122.590016,
+          10.569102
+        ],
+        "type": "Point"
+      },
+      "id": "ca05d42c8bfe9e27c12e7726bc90b2b6"
+    }
+  ],
+  "type": "FeatureCollection"
+}
