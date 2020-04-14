@@ -3,13 +3,13 @@
 "name": "district_pum",
 
 "features": [
-{ "type": "Feature", "properties": { "fid": 8, "BarangayID": null, "Timestamp": null, "Source": "manually created", "Remarks": "manually created", "name": "arevalo", "total_pum": 12 }, "geometry": { "type": "Point", "coordinates": [ 122.517939617138495, 10.690893386732954 ] } },
-{ "type": "Feature", "properties": { "fid": 9, "BarangayID": null, "Timestamp": null, "Source": null, "Remarks": null, "name": "molo", "total_pum": 18 }, "geometry": { "type": "Point", "coordinates": [ 122.539222500510931, 10.687727894585787 ] } },
-{ "type": "Feature", "properties": { "fid": 10, "BarangayID": null, "Timestamp": null, "Source": null, "Remarks": null, "name": "city proper", "total_pum": 2 }, "geometry": { "type": "Point", "coordinates": [ 122.560960002436516, 10.693806313017319 ] } },
-{ "type": "Feature", "properties": { "fid": 11, "BarangayID": null, "Timestamp": null, "Source": null, "Remarks": null, "name": "lapuz", "total_pum": 52 }, "geometry": { "type": "Point", "coordinates": [ 122.57988560442277, 10.700743455382394 ] } },
-{ "type": "Feature", "properties": { "fid": 12, "BarangayID": null, "Timestamp": null, "Source": null, "Remarks": null, "name": "lapaz", "total_pum": 19 }, "geometry": { "type": "Point", "coordinates": [ 122.576181305101613, 10.716907670601985 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "BarangayID": null, "Timestamp": null, "Source": "manually created", "Remarks": "manually created", "name": "arevalo", "total_pum": 12 }, "geometry": { "type": "Point", "coordinates": [ 122.516272369808988, 10.688559240471628 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "BarangayID": null, "Timestamp": null, "Source": null, "Remarks": null, "name": "molo", "total_pum": 18 }, "geometry": { "type": "Point", "coordinates": [ 122.544140880133, 10.694563608636813 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "BarangayID": null, "Timestamp": null, "Source": null, "Remarks": null, "name": "city proper", "total_pum": 2 }, "geometry": { "type": "Point", "coordinates": [ 122.569129514351147, 10.696557271111024 ] } },
+{ "type": "Feature", "properties": { "fid": 11, "BarangayID": null, "Timestamp": null, "Source": null, "Remarks": null, "name": "lapuz", "total_pum": 52 }, "geometry": { "type": "Point", "coordinates": [ 122.58505407114427, 10.706995632868088 ] } },
+{ "type": "Feature", "properties": { "fid": 12, "BarangayID": null, "Timestamp": null, "Source": null, "Remarks": null, "name": "lapaz", "total_pum": 19 }, "geometry": { "type": "Point", "coordinates": [ 122.585434527780436, 10.727744778243858 ] } },
 { "type": "Feature", "properties": { "fid": 13, "BarangayID": null, "Timestamp": null, "Source": null, "Remarks": null, "name": "mandurriao", "total_pum": 8 }, "geometry": { "type": "Point", "coordinates": [ 122.538397452025833, 10.720477268129647 ] } },
-{ "type": "Feature", "properties": { "fid": 14, "BarangayID": null, "Timestamp": null, "Source": null, "Remarks": null, "name": "jaro", "total_pum": 114 }, "geometry": { "type": "Point", "coordinates": [ 122.560017089882038, 10.739604922806167 ] } },
-{ "type": "Feature", "properties": { "fid": 15, "BarangayID": null, "Timestamp": null, "Source": "manually created", "Remarks": "jubilee hall", "name": "28", "total_pum": 28 }, "geometry": { "type": "Point", "coordinates": [ 122.567425688524381, 10.705592719948266 ] } }
+{ "type": "Feature", "properties": { "fid": 14, "BarangayID": null, "Timestamp": null, "Source": null, "Remarks": null, "name": "jaro", "total_pum": 114 }, "geometry": { "type": "Point", "coordinates": [ 122.564935469504093, 10.748441333652611 ] } },
+{ "type": "Feature", "properties": { "fid": 15, "BarangayID": null, "Timestamp": null, "Source": "manually created", "Remarks": "jubilee hall", "name": "28", "total_pum": 28 }, "geometry": { "type": "Point", "coordinates": [ 122.567258963791446, 10.707343329644258 ] } }
 ]
 }
