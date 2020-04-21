@@ -5,11 +5,11 @@
 "features": [
 { "type": "Feature", "properties": { "fid": 8, "BarangayID": 1, "Timestamp": null, "Source": "NOAH", "Remarks": "manually created", "name": "arevalo", "total_pui": 0 }, "geometry": { "type": "Point", "coordinates": [ 122.510598369392923, 10.685370613199593 ] } },
 { "type": "Feature", "properties": { "fid": 9, "BarangayID": 6, "Timestamp": null, "Source": "NOAH", "Remarks": "manually created", "name": "molo", "total_pui": 0 }, "geometry": { "type": "Point", "coordinates": [ 122.539566892269278, 10.69058307239192 ] } },
-{ "type": "Feature", "properties": { "fid": 10, "BarangayID": 7, "Timestamp": null, "Source": "NOAH", "Remarks": "manually created", "name": "city proper", "total_pui": 1 }, "geometry": { "type": "Point", "coordinates": [ 122.564094498883136, 10.693165854228216 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "BarangayID": 7, "Timestamp": null, "Source": "NOAH", "Remarks": "manually created", "name": "city proper", "total_pui": 0 }, "geometry": { "type": "Point", "coordinates": [ 122.564094498883136, 10.693165854228216 ] } },
 { "type": "Feature", "properties": { "fid": 11, "BarangayID": 4, "Timestamp": null, "Source": "NOAH", "Remarks": "manually created", "name": "lapuz", "total_pui": 0 }, "geometry": { "type": "Point", "coordinates": [ 122.581140372176677, 10.701761356108218 ] } },
 { "type": "Feature", "properties": { "fid": 12, "BarangayID": 3, "Timestamp": null, "Source": "NOAH", "Remarks": "manually created", "name": "lapaz", "total_pui": 0 }, "geometry": { "type": "Point", "coordinates": [ 122.581453991535554, 10.722177565637542 ] } },
 { "type": "Feature", "properties": { "fid": 13, "BarangayID": 5, "Timestamp": null, "Source": "NOAH", "Remarks": "manually created", "name": "mandurriao", "total_pui": 7 }, "geometry": { "type": "Point", "coordinates": [ 122.534356398220936, 10.714280985628802 ] } },
-{ "type": "Feature", "properties": { "fid": 14, "BarangayID": 2, "Timestamp": null, "Source": "NOAH", "Remarks": "manually created", "name": "jaro", "total_pui": 10 }, "geometry": { "type": "Point", "coordinates": [ 122.560146722498231, 10.742637254018227 ] } },
+{ "type": "Feature", "properties": { "fid": 14, "BarangayID": 2, "Timestamp": null, "Source": "NOAH", "Remarks": "manually created", "name": "jaro", "total_pui": 7 }, "geometry": { "type": "Point", "coordinates": [ 122.560146722498231, 10.742637254018227 ] } },
 { "type": "Feature", "properties": { "fid": 15, "BarangayID": 8, "Timestamp": null, "Source": null, "Remarks": null, "name": "jubilee hall", "total_pui": 0 }, "geometry": { "type": "Point", "coordinates": [ 122.562756368762834, 10.702407911313529 ] } }
 ]
 }
